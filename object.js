@@ -1,4 +1,4 @@
-function User(email, name) { //this is how basically the constructor that we specified in class
+function User(email, name) { //this is how basically the constructor that we specified in class actually works under the hood , this is what we know as prototyping
     this.email = email;
     this.name = name;
     this.online = false;
