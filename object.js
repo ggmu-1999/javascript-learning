@@ -1,4 +1,4 @@
-function User(email, name) {
+function User(email, name) { //this is how basically the constructor that we specified in class
     this.email = email;
     this.name = name;
     this.online = false;
